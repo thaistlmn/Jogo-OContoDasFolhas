@@ -1,0 +1,14 @@
+C:\Users\tallm\source\repos\OContoDasFolhasJogo\OContoDasFolhasJogo\obj\Debug\OContoDasFolhasJogo.csproj.AssemblyReference.cache
+C:\Users\tallm\source\repos\OContoDasFolhasJogo\OContoDasFolhasJogo\obj\Debug\OContoDasFolhasJogo.csproj.CoreCompileInputs.cache
+C:\Users\tallm\source\repos\OContoDasFolhasJogo\OContoDasFolhasJogo\bin\Debug\OContoDasFolhasJogo.exe.config
+C:\Users\tallm\source\repos\OContoDasFolhasJogo\OContoDasFolhasJogo\bin\Debug\OContoDasFolhasJogo.exe
+C:\Users\tallm\source\repos\OContoDasFolhasJogo\OContoDasFolhasJogo\bin\Debug\OContoDasFolhasJogo.pdb
+C:\Users\tallm\source\repos\OContoDasFolhasJogo\OContoDasFolhasJogo\obj\Debug\OContoDasFolhasJogo.exe
+C:\Users\tallm\source\repos\OContoDasFolhasJogo\OContoDasFolhasJogo\obj\Debug\OContoDasFolhasJogo.pdb
+C:\Users\tallm\Downloads\Jogo_OContoDasFolhas_Thais\OContoDasFolhasJogo\OContoDasFolhasJogo\bin\Debug\OContoDasFolhasJogo.exe.config
+C:\Users\tallm\Downloads\Jogo_OContoDasFolhas_Thais\OContoDasFolhasJogo\OContoDasFolhasJogo\bin\Debug\OContoDasFolhasJogo.exe
+C:\Users\tallm\Downloads\Jogo_OContoDasFolhas_Thais\OContoDasFolhasJogo\OContoDasFolhasJogo\bin\Debug\OContoDasFolhasJogo.pdb
+C:\Users\tallm\Downloads\Jogo_OContoDasFolhas_Thais\OContoDasFolhasJogo\OContoDasFolhasJogo\obj\Debug\OContoDasFolhasJogo.csproj.AssemblyReference.cache
+C:\Users\tallm\Downloads\Jogo_OContoDasFolhas_Thais\OContoDasFolhasJogo\OContoDasFolhasJogo\obj\Debug\OContoDasFolhasJogo.csproj.CoreCompileInputs.cache
+C:\Users\tallm\Downloads\Jogo_OContoDasFolhas_Thais\OContoDasFolhasJogo\OContoDasFolhasJogo\obj\Debug\OContoDasFolhasJogo.exe
+C:\Users\tallm\Downloads\Jogo_OContoDasFolhas_Thais\OContoDasFolhasJogo\OContoDasFolhasJogo\obj\Debug\OContoDasFolhasJogo.pdb
